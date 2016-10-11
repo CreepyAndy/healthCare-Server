@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="healthServerWeb"
+  id="myeclipse.1475770073051"
+  context-root="/healthServerWeb"
+  j2ee-spec="6.0"
+  archive="healthServerWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

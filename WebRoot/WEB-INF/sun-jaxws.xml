@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint name="Verify" implementation="com.xia.services.VerifyInterfaceImpl" url-pattern="/verify" />
+  <endpoint name="QueryInfo" implementation="com.xia.services.QueryInfoImpl" url-pattern="/queryInfo" />
+</endpoints>
